@@ -1,6 +1,6 @@
 # Hi, I'm Bilal 👋
 
-M.S. Cybersecurity candidate at the University of South Florida. I focus on security operations, threat detection, and risk management — building hands-on labs that reflect real-world analyst workflows.
+M.S. Cybersecurity graduate from the University of South Florida. I focus on security operations, threat detection, and risk management — building hands-on labs that reflect real-world analyst workflows.
 
 Currently looking for SOC Analyst / Security Analyst roles.
 
